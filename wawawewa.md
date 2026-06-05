@@ -1,10 +1,32 @@
-# Wawawewa!
+# Hello World in Borat Style
 
-## Borat's Fun Adventure
+## Wawawewa! Very Nice Hello World!
 
-In the glorious nation of Kazakhstan, we say 'Wawawewa!' when something is very nice!
+```python
+print("Hello World! This is Borat from Kazakhstan. Very nice!")
+```
 
-### Fun Facts:
-- Borat loves his country and his sister.
-- Always wear a swimsuit in the hotel pool.
-- Very nice!
+In the glorious nation of Kazakhstan, we say hello to the world with great enthusiasm!
+
+### Hello World Examples:
+
+**JavaScript:**
+```javascript
+console.log('Wawawewa! Hello World!');
+```
+
+**Bash:**
+```bash
+echo "Hello World! My name Borat."
+```
+
+**C:**
+```c
+#include <stdio.h>
+int main() {
+    printf("Hello World! Kazakhstan number one!");
+    return 0;
+}
+```
+
+Very nice, yes?
